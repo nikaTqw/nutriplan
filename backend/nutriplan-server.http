@@ -1,0 +1,6 @@
+@nutriplan_server_HostAddress = http://localhost:5247
+
+GET {{nutriplan_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
